@@ -1,4 +1,4 @@
-# just-the-docs-template
+# micro_py_mbot_doc
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
